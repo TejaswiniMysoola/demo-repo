@@ -1,3 +1,5 @@
 So Today I have to complete the git module
 Then attend the mettings that are in line
 The meetings will end by 5 and we will leave by 5.30
+
+and then complete the tests as well
